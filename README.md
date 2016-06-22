@@ -1,4 +1,4 @@
 # hello-world
-hello new repository 
+Hello new repository 
 
 new branch changes: readme-edits test!!!
